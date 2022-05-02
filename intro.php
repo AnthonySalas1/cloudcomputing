@@ -5,26 +5,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
-    <title>Document</title>
+    <title>Clouding/title>
 </head>
 <body>
     <div id="main">
         <nav class="navbar navbar-default" style="display: inline-block;">
-          <h3 style="color: white; position: relative;">CLOUD COMPUTING 5to</h3>
+          <h3 style="color: white; position: relative;">CLOUD COMPUTING 5TO</h3>
+          <h3 style="color: white; position: relative;">ANTHONY SALAS</h3>
+
           <h4 style="color: white; position: relative;">TECSUP</h4>
           <ul class="nav navbar-nav">
             <li><a href="#0">LAB01</a></li>
-            <li><a href="#0">LAB02</a></li>
+            <li><a href="#1">LAB02</a></li>
+            <li><a href="#2">LAB03</a></li>
+            <li><a href="#3">LAB04</a></li>
+            <li><a href="#4">LAB05</a></li>
+            <li><a href="#5">LAB06</a></li>
             <li><a href="#0">LAB07</a></li>
-            <li class="dropdown">
-              <a href="#0" class="dropdown-toggle" data-toggle="dropdown" data-target="dropdown" role="button" aria-haspopup="true" aria-expanded="false">LAB03<span class="caret"></span></a>
-              <ul class="dropdown-menu" id="dropdon-menu">
-                <li><a href="#0">Burger King</a></li>
-                <li><a href="#0">Southwest Airlines</a></li>
-                <li><a href="#0">Levi Strauss</a></li>
-              </ul>
-            </li>
-            <li><a href="#0">LAB04</a></li>
           </ul>
         </nav>
         </div>
